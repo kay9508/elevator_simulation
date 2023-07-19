@@ -1,0 +1,1 @@
+docker-compose -f src/main/elevator_docker/app1.yml up
