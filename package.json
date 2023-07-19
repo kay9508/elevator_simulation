@@ -1,0 +1,14 @@
+{
+  "name": "elevator_simulation",
+  "version": "1.0.0",
+  "description": "elevator_simulation...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "swagger-ui-dist": "4.19.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
